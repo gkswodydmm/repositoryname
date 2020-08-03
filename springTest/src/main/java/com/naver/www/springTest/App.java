@@ -1,4 +1,4 @@
-package com.naver.www.springTest1;
+package com.naver.www.springTest;
 
 /**
  * Hello world!
